@@ -7,7 +7,7 @@ import Footer from "@/components/Navigations/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Get Text",
+  title: "TextExtracto",
   description: "Convert Any Image To Text For Free.",
 };
 
